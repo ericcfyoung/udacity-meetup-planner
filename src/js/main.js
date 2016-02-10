@@ -1,0 +1,3 @@
+var basic = function () {
+    return '';
+};
